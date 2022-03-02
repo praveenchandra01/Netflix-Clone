@@ -3,3 +3,4 @@
 ---
 #### Access link : https://praveenchandra01.github.io/Netflix-Clone/
 ---
+![](https://github.com/praveenchandra01/Netflix-Clone/blob/master/public/Preview.png)
